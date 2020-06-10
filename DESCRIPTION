@@ -10,7 +10,7 @@ Author: Adelchi Azzalini [aut, cre],
    G. W. Hill [ctb] (Fortran routine STDINV),
    Yihong Ge [ctb] (Fortran routines BNVU and MVBVU).
 Maintainer: Adelchi Azzalini <adelchi.azzalini@unipd.it>
-Depends: R (>= 4.0.0)
+Depends: R (>= 3.5.0)
 Imports: tmvnsim (>= 1.0-2)
 Description: Functions are provided for computing the density and the
   distribution function of d-dimensional normal and "t" random variables,
